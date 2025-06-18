@@ -44,9 +44,8 @@ This project is licensed under the [CC BY-NC-ND 4.0 license](https://creativecom
 
 ## 🚀 Roadmap
 
-- [ ] Export game logs to CSV or JSON
-- [ ] Add statistics dashboard (kill average, placement trends)
-- [ ] Optional iCloud sync or portable bundle export
+- [ ] Add statistics dashboard (placement prediction, best poi)
+- [ ] Windows Support using Swift cross-platform tools
 - [ ] Dark mode toggle + custom themes
 
 ---
